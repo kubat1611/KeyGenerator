@@ -1,6 +1,6 @@
 # KeyGenerator
  
-Overview
+**Overview**
 
 The KeyGenerator is a simple Python script using the tkinter library for creating, exporting, importing, encrypting, and decrypting RSA key pairs. The script employs the cryptography library to handle cryptographic operations. The graphical user interface (GUI) enables users to generate RSA key pairs, export/import public keys, and perform file encryption and decryption using the generated keys.
 Features
@@ -23,6 +23,6 @@ Features
     Quit: 
         Click the "Quit" button to exit the application.
 
-Author
+**Author:**
 
-Mundek
+*Mundek*
